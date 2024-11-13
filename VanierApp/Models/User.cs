@@ -2,6 +2,7 @@
 
 namespace VanierApp.Models
 {
+    //this is my comment - LRAM 2024
     public class User
     {
         public int Id { get; set; }
