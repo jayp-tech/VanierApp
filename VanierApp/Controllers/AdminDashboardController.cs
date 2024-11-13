@@ -8,6 +8,7 @@ using BCrypt.Net;
 
 namespace VanierApp.Controllers
 {
+    //Test comment
     public class AdminDashboardController : Controller
     {
         private readonly AppDbContext _context;
