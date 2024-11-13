@@ -1,5 +1,6 @@
 ﻿namespace VanierApp.Models
 {
+    //Second comment - LRAM 2024
     public class Teacher
     {
         public int TeacherID { get; set; }
